@@ -2,7 +2,7 @@
 title: wiki守则
 description: 新用户必看
 published: true
-date: 2026-07-24T14:10:24.178Z
+date: 2026-07-24T14:13:24.689Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T14:03:43.486Z
