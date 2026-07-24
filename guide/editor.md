@@ -2,7 +2,7 @@
 title: 编辑器使用指南
 description: 
 published: true
-date: 2026-07-24T15:21:21.593Z
+date: 2026-07-24T15:24:52.748Z
 tags: 教程, 规范
 editor: markdown
 dateCreated: 2026-07-24T14:57:03.419Z
@@ -58,6 +58,21 @@ dateCreated: 2026-07-24T14:57:03.419Z
 ## 样式
 
 如果你有幸学过 CSS 的话，那么恭喜你，你可以随意的编写 CSS 美化你的文章页面！（比隔壁 SHSWiki不知道强几倍）具体的话自行探索吧！（毕竟会 CSS 的应该不需要我多说）
+
+比如本页面通过此样式把侧边栏改绿了：
+
+```css
+.v-application .blue.darken-2,
+.v-application .primary,
+.v-application nav.primary {
+  background-color: #1f9543!important;
+  border-color: #1f9543!important
+}
+.v-application .blue.darken-3 {
+  background-color: #1c9e44!important;
+  border-color: #1c9e44!important
+}
+```
 
 # 编辑器 {#xiamian}
 
