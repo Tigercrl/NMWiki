@@ -2,7 +2,7 @@
 title: 编辑器使用指南
 description: 
 published: true
-date: 2026-07-24T14:57:03.420Z
+date: 2026-07-24T15:07:12.175Z
 tags: 教程, 规范
 editor: markdown
 dateCreated: 2026-07-24T14:57:03.419Z
@@ -176,7 +176,8 @@ link:路径[显示名称]
 
 ```
 ​```kroki
-digraph G {Hello->World}
+graphviz
+diagraph G {Hello->World}
 ​```
 ​```plantuml
 Bob -> Alice : hello
@@ -186,7 +187,8 @@ Bob -> Alice : hello
 可以渲染出：
 
 ```kroki
-digraph G {Hello->World}
+graphviz
+diagraph G {Hello->World}
 ```
 ```plantuml
 Bob -> Alice : hello
