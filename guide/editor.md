@@ -2,7 +2,7 @@
 title: 编辑器使用指南
 description: 
 published: true
-date: 2026-07-24T15:11:52.783Z
+date: 2026-07-24T15:12:33.914Z
 tags: 教程, 规范
 editor: markdown
 dateCreated: 2026-07-24T14:57:03.419Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-24T14:57:03.419Z
 
 本 Wiki 支持使用**文件夹结构**来编排文章。在创建页面时，可以在“页面位置”中定义文章的位置，该位置将直接作为 **URL 中的路径**使用，并以文件夹形式显示在侧边栏中。
 
-例如，创建 `wiki/test` 文章后，你将可以在 `https://nmwiki.top/e/zh/wiki/test` 中访问该文章。
+例如，创建 `wiki/test` 文章后，你将可以在 `https://nmwiki.top/wiki/test` 中访问该文章。
 
 > 注意，为保证关键页面不被篡改，普通用户仅能在 `wiki` 及其子目录下创建或修改文章
 {.is-warning}
