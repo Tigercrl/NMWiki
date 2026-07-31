@@ -2,7 +2,7 @@
 title: 南模 Wiki
 description: 
 published: true
-date: 2026-07-31T07:43:07.291Z
+date: 2026-07-31T08:25:05.164Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T06:40:54.073Z
@@ -28,6 +28,8 @@ dateCreated: 2026-07-24T06:40:54.073Z
 ## 📝 参与编辑
 
 想要贡献内容？请先查阅 [编辑器使用指南](/指南/编辑器使用指南)。
+
+站点的所有内容在 [GitHub](https://github.com/Tigercrl/NMWiki) 也有存档。
 
 ## 小站新开，求支持！
 
