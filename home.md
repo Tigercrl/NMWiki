@@ -2,7 +2,7 @@
 title: 南模 Wiki
 description: 
 published: true
-date: 2026-07-31T08:25:05.164Z
+date: 2026-08-04T14:16:07.593Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T06:40:54.073Z
@@ -12,7 +12,7 @@ dateCreated: 2026-07-24T06:40:54.073Z
 
 这是一个~~开放包容、交流互鉴~~（bushi）的学生自治知识社区～
 
-> **温馨提示：** 本站为学生自治社区，谢绝家长与老师加入，感谢理解 🙏
+> **温馨提示：** 本站为学生自治社区，感谢理解 🙏
 {.is-warning}
 
 ## 🚀 快速开始
