@@ -2,7 +2,7 @@
 title: 南模 Wiki
 description: 
 published: true
-date: 2026-08-04T14:16:07.593Z
+date: 2026-08-04T14:16:55.565Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T06:40:54.073Z
@@ -22,7 +22,7 @@ dateCreated: 2026-07-24T06:40:54.073Z
 **加入流程：**
 
 1. 📖 阅读 [社区共建公约](/规范/社区共建公约)
-2. 💬 加入 QQ 群：**1015662402** → [点击加群](https://qm.qq.com/q/JKJlfcpyAG)
+2. 💬 加入 QQ 群： → [点击加群](https://qm.qq.com/q/JKJlfcpyAG)
 3. ✅ 按照 [注册指南](/指南/注册账号) 完成账号注册
 
 ## 📝 参与编辑
